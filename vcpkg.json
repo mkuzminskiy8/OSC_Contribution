@@ -1,0 +1,12 @@
+{
+  "name": "roc-toolkit",
+  "version": "0.1.0",
+  "builtin-baseline": "3fb04b344d45b96e2483d2d3f8f6cfbb4e835c8c",
+  "dependencies": [
+    "libuv",
+    "libsamplerate",
+    "spdlog",
+    "benchmark",
+    "gtest"
+  ]
+}

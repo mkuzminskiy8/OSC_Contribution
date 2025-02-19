@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\internal_modules",
+    "\\src\\internal_modules\\roc_fec",
+    "\\src\\public_api",
+    "\\src\\public_api\\src",
+    "\\src\\tests",
+    "\\src\\tests\\roc_fec",
+    "\\src\\tests\\roc_rtp",
+    "\\src\\tests\\roc_sdp"
+  ],
+  "PreviewInSolutionExplorer": false
+}
